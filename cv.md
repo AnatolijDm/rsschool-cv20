@@ -4,7 +4,7 @@
 1. I wish became a good programmer with big bag of experience, had in a big progressive company. Want to improve my knowledge of creating web pages and js language skills, working with git and ect.
 1. Skills: JavaScript, HTML and CSS, node.js (webpack, basic electron, eslint).
 1. Code example:  
-    ```javascript
+```javascript
   export function choosColor(color) {
     document.querySelector('#curColor').style.backgroundColor = color;
     if (color === 'black') {
@@ -20,5 +20,5 @@
       document.querySelector('#prevColor').style.color = 'black';
     }
   }
-    ```
+```
 1. Experience: I have no work experience in programming.
